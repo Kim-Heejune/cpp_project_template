@@ -1,0 +1,2 @@
+/home/kim/cpp_project_template/cpp_project_template-3/build/CMakeFiles/rebuild_cache.dir
+/home/kim/cpp_project_template/cpp_project_template-3/build/CMakeFiles/edit_cache.dir

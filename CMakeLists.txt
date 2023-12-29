@@ -8,7 +8,7 @@ set(CMAKE_VERBOSE_MAKEFILE ON)
 
 project(
     CPP_PROJECT_TEMPLATE
-    LANGUAGE CXX
+    LANGUAGES CXX
     VERSION 1.0.0
     DESCRIPTION "C++ Project Template"
     HOMEPAGE_URL "github.com/Kim-Heejune"
